@@ -1,2 +1,2 @@
-github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be h1:ta7tUOvsPHVHGom5hKW5VXNc2xZIkfCKP8iaqOyYtUQ=
-github.com/rainycape/unidecode v0.0.0-20150907023854-cb7f23ec59be/go.mod h1:MIDFMn7db1kT65GmV94GzpX9Qdi7N/pQlwb+AN8wh+Q=
+github.com/PabloCastellano/unidecode v0.0.0-20201204100319-ffe981f19e6b h1:jqGxj8FfBDxP36uxSxDncNT3tGiWX4ZpP5svfIkFI2A=
+github.com/PabloCastellano/unidecode v0.0.0-20201204100319-ffe981f19e6b/go.mod h1:WASXnj1GBkmeFN6TIH4onoNrojpwOkNToM4ai+O0NYo=
