@@ -49,6 +49,8 @@ func TestSlugMake(t *testing.T) {
 		{"\"C'est déjà l’été.\"", "cest-deja-lete"},
 		{"jaja---lol-méméméoo--a", "jaja-lol-mememeoo-a"},
 		{"影師", "ying-shi"},
+
+		{"ñapaes", "ñapaes"},
 	}
 
 	for index, st := range testCases {
